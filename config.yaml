@@ -1,8 +1,8 @@
 title: mutakin portfolio
 baseURL: /
 params:
-  accent_color: violet
-  color_scheme: light
+  accent_color: blue
+  color_scheme: dark
   footer:
     content: '&copy; mutakin 2020. All rights reserved.'
     has_social: true
