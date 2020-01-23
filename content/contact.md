@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: hire me
+subtitle: Hire me
 menu:
   main:
     name: Contact
