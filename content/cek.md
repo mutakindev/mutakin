@@ -1,5 +1,0 @@
----
-title: cek
-layout: page
----
-
