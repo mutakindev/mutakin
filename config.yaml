@@ -1,18 +1,15 @@
-title: Stackbit Exto Theme
+title: mutakin portfolio
 baseURL: /
 params:
+  accent_color: violet
   color_scheme: light
-  accent_color: pink
-  header:
-    title: Exto
-    has_nav: true
   footer:
-    content: '&copy; Stackbit-Exto. All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    content: '&copy; mutakin 2020. All rights reserved.'
     has_social: true
+    links: []
+  header:
+    has_nav: true
+    title: mutakin
 disableKinds:
   - RSS
   - taxonomy
